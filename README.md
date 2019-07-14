@@ -1,0 +1,1 @@
+# yatsukegor.github.io
