@@ -448,8 +448,10 @@ h3 {
     align-items: center;
 }
 
-.profile img {
-    max-width: 65px;
+
+
+.owl-carousel .owl-item img {
+    width: auto !important;
 }
 
 .profile .name {
